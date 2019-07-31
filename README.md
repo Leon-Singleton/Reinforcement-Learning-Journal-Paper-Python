@@ -1,6 +1,8 @@
 # Reinforcement-Learning-Journal-Paper-Python
 A journal paper discussing the advantages between Q and SARSA learning when performed on a chess game scenario. 
 
+---
+
 To re-create the results for a specific learning technique, open the appropriately named file:
 
 To reproduce the Q learning results open and execute chess_student_Q. 
